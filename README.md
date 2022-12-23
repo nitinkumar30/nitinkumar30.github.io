@@ -5,7 +5,7 @@
 
 # Hosted on
 
-- [Github Pages](nitinkumar30.github.io/myLatestPortfolio/)
+- [Github Pages](https:/nitinkumar30.github.io/myLatestPortfolio/)
 - [Netlify](https://nitinkr.netlify.app/)
 - [Custom Domain](http://nitinkr.me/)
 
