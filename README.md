@@ -7,7 +7,8 @@
 
 - [Github Pages](https:/nitinkumar30.github.io/)
 - [Netlify](https://nitinkr.netlify.app/)
-- [Custom Domain](http://nitinkr.me/)
+- [Render](https://nitin-kr.onrender.com/)
+- [Custom Domain](https://nitinkr.me/)
 
 # Future changes
 
