@@ -13,3 +13,7 @@
 
 > You can expect some future changes in this.  
 > Have patience.  
+
+# Domain
+
+> Domain purchased for free under Student Developer's pack from [Namecheap](https://ap.www.namecheap.com/Domains/DomainControlPanel/nitinkr.me/advancedns)
